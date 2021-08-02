@@ -1,0 +1,4 @@
+save development configuration file in
+root/instance
+folder with any name you like e.g config_development.yaml
+
